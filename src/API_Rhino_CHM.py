@@ -1,5 +1,5 @@
 # This program parses an unzipped *.chm help file associated with a CAD program into an XML file that parses detailed type/function information
-# associated with the function inputs/outputs.
+# associated with the function inputs/outputs. (Rhinoscript.chm)
 # Built on earlier Solidworks script to extract detailed VARIANT specifications not listed in sldworks.tlb for use with win32com
 
 # TODO: check byrefs, pointers, pointerstopointers,
